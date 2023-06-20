@@ -1,4 +1,6 @@
 # Logs
+.ios
+.android
 logs
 *.log
 npm-debug.log*
