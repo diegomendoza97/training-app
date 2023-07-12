@@ -1,0 +1,17 @@
+
+.avatar-row {
+    display: flex;
+}
+
+.username-label {
+    margin: auto 10px;
+}
+
+.today-workout-link {
+    color: #3880ff;
+    text-decoration: underline;
+}
+
+.today-workout-link:hover {
+    cursor: pointer;
+}
